@@ -1,6 +1,5 @@
-rootElement : {
-	align : center;
-}
-ul  {
-	color : red;
+.navbar-default {
+    background-color: rgba(14, 154, 236, 0);
+	border-color:  rgba(14, 154, 236, 0);
+	text-decoration-color: red;
 }
